@@ -18,22 +18,23 @@ Cadastra um novo livro.
 
 ---
 
-## Testes
+## Testes realizados
 
 ### GET - listar livros
-![GET](Prints/get-listar.png)
+![GET listar](Prints/get-listar.png)
+
+![GET listar 2](Prints/get-listar-2.png)
 
 ### GET - livro por id
-![GET ID](Prints/get-id.png)
+![GET ID](Prints/get-por-id.png)
 
 ### POST - cadastro
-![POST](Prints/post1.png)
+![POST 1](Prints/post-cadastrar-1.png)
+
+![POST 2](Prints/post-cadastrar-2.png)
 
 ### Erro de validação
-![Erro](Prints/erro.png)
-
-### GET final
-![Final](Prints/final.png)
+![Erro](Prints/erro-validacao-1.png)
 
 ---
 
